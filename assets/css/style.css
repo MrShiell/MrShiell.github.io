@@ -657,6 +657,26 @@ nav ul li a {
   transition: all .5s ease-in-out;
 
 }
+
+#link {
+  font-size: .75rem;
+  color: #2183ce;
+  text-decoration: none !important;
+  transition: all 0.15s ease-in-out 0s;
+}
+
+#link:hover {
+  font-size: .8rem;
+  transition: all 0.1s ease-in-out 0s;
+}
+
+#stretch {
+  background-color: #fffbeb;
+}
+
+#hint{
+  font-size: .6rem;
+}
 /*--------------------------------------------------------------
 # end content
 --------------------------------------------------------------*/
